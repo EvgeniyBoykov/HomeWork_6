@@ -6,5 +6,6 @@ public class HW_6 {
 
    Dog.maxRun(300);
    Dog.maxSwim(7);
+
  }
  }
